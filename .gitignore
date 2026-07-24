@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large local files
+*.parquet
+*.delta
+*.db
+*.sqlite
+*.zip
+*.7z
+
+# Power BI temporary files
+*.tmp
+*.pbit.tmp
+
+# Keep small sample CSV/JSON only. Do not commit large datasets.
