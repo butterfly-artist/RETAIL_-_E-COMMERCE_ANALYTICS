@@ -11,6 +11,7 @@
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 ``` markdown
 
+
 ## 1. Project Summary
 
 * **Domain:** Retail & E-Commerce Operations Analytics.
@@ -91,5 +92,3 @@ By Week 12, this repository proves that the team has successfully met the follow
 * **Structured Stream Ingestion:** Simulated an active file streaming sequence using an explicit event schema, persistent checkpoints, a 30-minute late-arrival watermark, windowed deduplication, and verified no-new-file processing stability.
 * **Traceable Git Evidence Rails:** Produced a consistent history of technical changes backed by standard log arrays and clear individual work ownership.
 * **Technical Presentation Competence:** Demonstrated that all three team members can fully articulate, defend, and walk through the comprehensive data lifecycle, operational limits, and architecture.
-
-```
